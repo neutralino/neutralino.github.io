@@ -2,9 +2,10 @@
 title: Neutralino
 email: don.teo àt gmäil dôt com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Everything we know is only some kind of approximation, because we
+  know that we do not know all the laws as yet. Therefore, things must
+  be learned only to be unlearned again or, more likely, to be
+  corrected." --R. Feynman
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://neutralino.github.io" # the base hostname & protocol for your site
 twitter_username: neutralinoz
