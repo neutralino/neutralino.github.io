@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello world. My name is Don Teo. I am an implementation engineer at
+[Opower](https://opower.com).  Previously, I was a graduate research
+student at the Laboratory for Elementary Particle Physics at Cornell
+University. My PhD research topic was the search for new fundamental
+particles with the Compact Muon Solenoid experiment at the Large
+Hadron Collider.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/donteo).
