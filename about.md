@@ -15,3 +15,7 @@ the
 Cornell University. My PhD research topic was the search for new
 fundamental particles with the Compact Muon Solenoid experiment at the
 Large Hadron Collider.
+
+This blog is a collection of musings in machine learning techniques,
+with a heavy emphasis on their applications to understanding physical
+phenomena.
