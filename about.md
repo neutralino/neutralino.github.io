@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello world. My name is Don Teo. I am a research engineer
+Hello world. My name is Don Teo. I am a research scientist
 at [Thomson Reuters](http://thomsonreuters.com) working on
 applications of machine learning and natural language
 processing. Previously, I was an implementation engineer
@@ -16,6 +16,4 @@ Cornell University. My PhD research topic was the search for new
 fundamental particles with the Compact Muon Solenoid experiment at the
 Large Hadron Collider.
 
-This blog is a collection of musings in machine learning techniques,
-with a heavy emphasis on their applications to understanding physical
-phenomena.
+This blog is yet another collection of musings in machine learning.
