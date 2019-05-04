@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   corrected." --R. Feynman
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://neutralino.github.io" # the base hostname & protocol for your site
-twitter_username neutralinoz
+twitter_username: neutralinoz
 github_username: neutralino
 
 # Build settings
